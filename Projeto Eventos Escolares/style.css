@@ -73,9 +73,13 @@ section.topo-do-site .flex{
     font-size: 38px;
     line-height: 40px;
 }
-.topo-do-site .txt-topo-site h1 p span{
+.topo-do-site .txt-topo-site h1 span{
     color: blue;
     font-size: 56px;
+}
+.topo-do-site .txt-topo-site p span{
+    color: blue;
+    font-size: 30px;
 }
 .topo-do-site .txt-topo-site p{
     color: #fff;
